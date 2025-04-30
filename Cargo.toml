@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2024"
 authors = ["leonrobi"]
 description = "Crate for accessing Great Britain train information easily"
-license = "The MIT License"
 license-file = "LICENSE"
 homepage = "https://github.com/leonrobi/uk-trains"
 keywords = ["trains", "api", "realtime"]

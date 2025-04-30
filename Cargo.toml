@@ -1,0 +1,13 @@
+[package]
+name = "uk-trains"
+version = "0.1.0"
+edition = "2024"
+authors = ["leonrobi"]
+description = "Crate for accessing Great Britain train information easily"
+license = "LICENSE"
+homepage = "https://github.com/leonrobi/uk-trains"
+keywords = ["trains", "api", "realtime"]
+readme = "README.md"
+
+[dependencies]
+yaserde = {version = "0.12.0", features = ["yaserde_derive"]}
